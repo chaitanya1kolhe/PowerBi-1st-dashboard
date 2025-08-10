@@ -39,7 +39,7 @@ Here are some screenshots of the dashboard:
 
 ![Dashboard Overview](dashboard-overview.png)
 
-> 💡 Save your screenshot in a folder called `images` in your repository using the same filename above.
+> 💡 Save your screenshot in the root of your repository using the same filename above.
 
 ---
 
