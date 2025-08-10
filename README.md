@@ -50,11 +50,14 @@ Here are some screenshots of the dashboard:
 ---
 
 ## 🤝 Contributing
+
 Contributions are welcome!  
-If you want to improve visuals, add new datasets, or optimize the data model:
+If you have ideas to improve the visuals, add new datasets, or optimize the data model:
 1. Fork this repository.
-2. Make your changes.
-3. Create a Pull Request.
+2. Create a new branch for your changes.
+3. Commit and push your updates.
+4. Submit a Pull Request describing your enhancements.
+
 
 ---
 
